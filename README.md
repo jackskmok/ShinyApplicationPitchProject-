@@ -1,3 +1,3 @@
 # ShinyApplicationPitchProject
 
-# There two source file server.R and ui.R
+# There two source files, they are server.R and ui.R
